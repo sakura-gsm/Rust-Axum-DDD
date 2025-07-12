@@ -19,7 +19,7 @@ src/
 # クローン
 https://github.com/sakura-gsm/Rust-Axum-DDD.git
 
-reopen in contianer
+reopen in container
 
 # ビルド＆実行
 cargo run
